@@ -1,1 +1,1 @@
-include ':app', ':path_library'
+include ':app'
