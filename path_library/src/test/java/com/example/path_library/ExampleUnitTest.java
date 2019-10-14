@@ -1,4 +1,4 @@
-package com.example.path_liberary;
+package com.example.path_library;
 
 import org.junit.Test;
 

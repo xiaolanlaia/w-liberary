@@ -1,4 +1,4 @@
-package com.example.path_liberary;
+package com.example.path_library;
 
 
 
@@ -26,7 +26,7 @@ import java.util.concurrent.Semaphore;
 
 /**
  * @author xiaolanlaia
- * @create 2019/10/14 10:20
+ * @create 2019/10/14 10:26
  */
 
 public class PathView extends View {
